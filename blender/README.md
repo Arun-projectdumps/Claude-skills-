@@ -111,6 +111,7 @@ The add-on now listens on `127.0.0.1:9876`, and Claude can talk to Blender. Try 
 | Skill | Folder | What it does |
 | --- | --- | --- |
 | Low Poly Model | [`lowpolymodel`](lowpolymodel) | Builds stylized low-poly 3D characters (chibi humans, toy robots, mascot blobs) with clean geometry and simple bone rigs. Run it with `/modelchar`. |
+| Low Poly Face | [`lowpolyface`](lowpolyface) | Animates facial expressions and simple gestures (happy, sad, shocked, blink, talk, nod yes/no, and more) on characters built with Low Poly Model. Run it with `/lowpolyface`. |
 
 ### Installing a skill
 
