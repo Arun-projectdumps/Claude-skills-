@@ -80,7 +80,7 @@ Then restart Claude Code.
 
 ## How to use it
 
-1. Open Blender and make sure the **MCP for Blender** server is running (press **N** → **MCP for Blender** tab → **Start MCP Server**).
+1. Open Blender and make sure the **MCP for Blender** server is running (press **N** → **MCP for Blender** tab → **Connect to MCP server**).
 2. Open Claude Code.
 3. Ask for a character, either with the shortcut command:
 

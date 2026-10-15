@@ -94,7 +94,7 @@ Run `claude mcp list` to check that `blender` shows up.
 
 1. In Blender's 3D viewport, press **N** to open the sidebar.
 2. Open the **MCP for Blender** tab.
-3. Click **Start MCP Server** (some versions label it **Connect to Claude**). Newer versions start it automatically when Blender opens.
+3. Click **Connect to MCP server** (older versions label it **Start MCP Server** or **Connect to Claude**). Newer versions start it automatically when Blender opens.
 
 The add-on now listens on `127.0.0.1:9876`, and Claude can talk to Blender. Try asking Claude: *"What objects are in my Blender scene?"*
 
